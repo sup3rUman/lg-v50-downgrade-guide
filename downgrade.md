@@ -22,7 +22,15 @@
 - **Battery charged to at least 50%**  
 
 ---
+## Identify Your Model and Carrier
+### Confirm Your Model
+- Check in **Settings → About Phone → Hardware Info**   
+- Your model will be `LM-V500N` (Korean) or `LM-V500EM` (Global)
 
+### Find Your Carrier / Region Code
+- **Hint:** sometimes the carrier name shows on the boot logo
+
+---
 ## 🛠️ Step-by-Step Downgrade Procedure
 
 1. **Download & Extract Patched LGUP**
