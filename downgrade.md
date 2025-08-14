@@ -41,8 +41,8 @@
    - Click **File Path** → Select your downloaded `.KDZ` firmware file.
 
 6. **Select the Correct Process**
-  ⚠️ **WARNING:** Selecting `Refurbish` will **ERASE ALL USER DATA**  
-  ✅ Use `UPGRADE` to keep your data.
+   - ⚠️ **WARNING:** Selecting `Refurbish` will **ERASE ALL USER DATA**  
+   - ✅ Use `UPGRADE` to keep your data.
 
 7. **Start Flashing**
    - Click **Start** and wait. Do **NOT** unplug your phone during the process.
