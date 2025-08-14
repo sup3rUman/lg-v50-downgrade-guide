@@ -2,8 +2,8 @@
 
 ---
 
-<span style="color:red; font-weight:bold;">⚠️ WARNING – PROCEED AT YOUR OWN RISK</span>  
-> <span style="color:red;">I am NOT responsible for any damage, data loss, or device bricking that may occur.</span>  
+> ⚠️ **WARNING – PROCEED AT YOUR OWN RISK**  
+> I am **NOT** responsible for any damage, data loss, or device bricking that may occur.  
 > This guide is for **educational purposes only**. Flashing firmware incorrectly can permanently damage your device.  
 > Ensure you understand each step before proceeding.
 
@@ -41,8 +41,8 @@
    - Click **File Path** → Select your downloaded `.KDZ` firmware file.
 
 6. **Select the Correct Process**
-   - **Choose `UPGRADE`** – Recommended for downgrading without wiping data.  
-   - <span style="color:red; font-weight:bold;">⚠️ Warning:</span> Selecting `Refurbish` will <span style="color:red;">erase all user data</span>.
+  ⚠️ **WARNING:** Selecting `Refurbish` will **ERASE ALL USER DATA**  
+  ✅ Use `UPGRADE` to keep your data.
 
 7. **Start Flashing**
    - Click **Start** and wait. Do **NOT** unplug your phone during the process.
