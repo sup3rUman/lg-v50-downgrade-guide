@@ -31,11 +31,11 @@
    - Run the LG driver installer and restart your PC.
 
 3. **Prepare Your Phone**
-   - Power off your phone completely.
+   - Power off your phone.
    - Hold the **Volume Up** button and plug in the USB-C cable (connected to your PC) to enter **Download Mode**.
 
 4. **Open Patched LGUP**
-   - LGUP should detect your phone model and firmware version.
+   - LGUP should detect your phone.
 
 5. **Load the Firmware File**
    - Click **File Path** → Select your downloaded `.KDZ` firmware file.
