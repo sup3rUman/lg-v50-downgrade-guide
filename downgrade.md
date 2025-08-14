@@ -14,7 +14,7 @@
 - **Logout of your Google Account before starting** 
 - **Patched LGUP 1.16.3** – Download from the [V50 ThinQ Telegram group](https://t.me/v50thinq)  
 - **Windows PC** 
-- **LG USB Drivers** – [Download here](https://lg.com) (Install before connecting your phone)  
+- **LG USB Drivers** – [Download here](https://lgusbdriver.com/) (Install before connecting your phone)  
 - **Firmware (KDZ file)** – Download your correct model:  
   - [LMV500EM ROMs](https://lgrom.com/firmware/LMV500EM)  
   - [LMV500N ROMs](https://lgrom.com/firmware/LMV500N)  
