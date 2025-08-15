@@ -1,1 +1,1 @@
-# lg-v50-downgrade-guide
+# lg-v50-upgrade/downgrade-guide
